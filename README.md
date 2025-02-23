@@ -5,7 +5,7 @@ Develop a community-driven waste segregation and collection system that incentiv
 Many households struggle with proper waste segregation, leading to increased landfill waste and lower recycling rates.
 Lack of awareness and engagement in sustainable practices contributes to environmental degradation.
 
-our solution - 
+Our solution - 
 EcoSphere - A mobile application designed to promote sustainable living through effective waste segregation.
 
 Key Features:
