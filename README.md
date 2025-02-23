@@ -1,16 +1,15 @@
-# yo
+# EcoSphere
 
-A new Flutter project.
+Problem Statement -
+Develop a community-driven waste segregation and collection system that incentivizes households to sort waste correctly.
+Many households struggle with proper waste segregation, leading to increased landfill waste and lower recycling rates.
+Lack of awareness and engagement in sustainable practices contributes to environmental degradation.
 
-## Getting Started
+our solution - 
+EcoSphere - A mobile application designed to promote sustainable living through effective waste segregation.
 
-This project is a starting point for a Flutter application.
+Key Features:
+Mobile Application: Frontend developed with Flutter for a smooth user experience.
+Backend Integration: Utilizing Firebase for data management and user authentication.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tech Stack - Flutter, Firebase
